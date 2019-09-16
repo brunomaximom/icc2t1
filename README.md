@@ -1,7 +1,7 @@
 # icc2t1
 lugar onde o professor pode baixar o trabalho
 
-MD5: 2749ad4dd56bb55501a0fa2820ca2388
+MD5: 2749ad4dd56bb55501a0fa2820ca2388 <<--- se refere ao arquivo tar.xz e não a este repositório
 
 Integrantes:
 1- Bruno Maximo (10442235)
