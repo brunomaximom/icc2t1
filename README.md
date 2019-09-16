@@ -1,5 +1,5 @@
 # icc2t1
-lugar onde o professor pode baixar o zip
+lugar onde o professor pode baixar o trabalho
 
 MD5: 2749ad4dd56bb55501a0fa2820ca2388
 
